@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180">
+  <defs>
+    <linearGradient id="whiteGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8E8E8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20, 20)">
+    <g transform="translate(0, 10)">
+      <path d="M40 5 
+               C60 5, 78 25, 78 50 
+               C78 85, 40 110, 40 110 
+               C40 110, 2 85, 2 50 
+               C2 25, 20 5, 40 5 Z" 
+            fill="url(#whiteGradient)" 
+            stroke="#CCCCCC" stroke-width="1"/>
+      
+      <path d="M40 20 
+               L37 20 
+               L37 55 
+               L34 55 
+               L34 45 
+               L29 45 
+               L29 55 
+               L24 55 
+               L24 65 
+               L40 65 
+               L56 65 
+               L56 55 
+               L51 55 
+               L51 45 
+               L46 45 
+               L46 55 
+               L41 55 
+               L41 20 
+               Z" 
+            fill="url(#whiteGradient)"/>
+      
+      <path d="M29 65 L29 70 M51 65 L51 70" 
+            stroke="url(#whiteGradient)" stroke-width="1.5" stroke-linecap="round"/>
+      
+      <circle cx="40" cy="20" r="8" 
+              fill="none" stroke="url(#whiteGradient)" stroke-width="1.5"/>
+      <circle cx="40" cy="20" r="4" 
+              fill="url(#whiteGradient)"/>
+    </g>
+
+    <g transform="translate(100, 0)">
+      <text x="0" y="68" 
+            font-family="'DM Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif" 
+            font-weight="700" 
+            font-size="56" 
+            letter-spacing="5.6" 
+            fill="#FFFFFF"
+            text-transform="uppercase">
+        JPRA
+      </text>
+      
+      <text x="0" y="112" 
+            font-family="'Playfair Display', Georgia, serif" 
+            font-weight="400" 
+            font-style="italic" 
+            font-size="22" 
+            letter-spacing="0.5" 
+            fill="#FFFFFF">
+        Advogados
+      </text>
+      
+      <text x="0" y="138" 
+            font-family="'DM Sans', 'Inter', sans-serif" 
+            font-weight="500" 
+            font-size="11" 
+            letter-spacing="1.5" 
+            fill="#CCCCCC"
+            text-transform="uppercase">
+        Desbloqueio • Defesa • Direito Bancário
+      </text>
+    </g>
+  </g>
+</svg>
